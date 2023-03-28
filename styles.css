@@ -78,3 +78,19 @@
 #reset:hover {
 	background-color: #EB1039;
 }
+
+.no-border-l {
+	border-left: none;
+}
+
+.no-border-r {
+	border-right: none;
+}
+
+.no-border-t {
+	border-top: none;
+}
+
+.no-border-b {
+	border-bottom: none;
+}
